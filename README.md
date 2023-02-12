@@ -1,19 +1,19 @@
-# Mirror
+Ni# Mirror
 ![mirror](https://user-images.githubusercontent.com/85496711/218227774-20bf8545-0258-4e8a-bd68-3b240771316c.png)
 - Social media application where you can share posts about you and interact with others.
 - Mirror is safe & easy to use:smile::smiley:.
 
 ##  :camera: Gallery
 ## Login:
-![login_page](https://user-images.githubusercontent.com/85496711/217348140-8a58bcdc-cf93-4b17-ad55-13c47ffd34eb.PNG)
+
 
 ## Home:
-![home1](https://user-images.githubusercontent.com/85496711/217348162-aa5de525-574a-4dbf-8623-8c1f15c11411.PNG)
 
-![home2](https://user-images.githubusercontent.com/85496711/217348244-4c936645-aedc-43d8-9521-804b407b36a7.PNG)
+
+
 
 ## Post:
-![single_post](https://user-images.githubusercontent.com/85496711/217397050-7a9ad315-91d3-44d8-9384-32c5fb019b2c.PNG)
+
 
 *****************************************************************************************************************************
 ##  :beginner: About
