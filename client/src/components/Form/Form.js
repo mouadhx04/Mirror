@@ -42,7 +42,7 @@ const Form = ({ currentId, setCurrentId }) => {
     return (
       <Paper className={classes.paper}>
         <Typography style={{fontFamily: 'Andalé Mono'}} variant='h6' align='center'>
-          Please Sign In And Get An Amazing Experience on Trusty! 
+          Please Sign In And Get An Amazing Experience on Mirror! 
         </Typography>
       </Paper>
     )

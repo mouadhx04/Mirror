@@ -15,7 +15,7 @@ import MenuItem from '@mui/material/MenuItem';
 
 import useStyles from './styles';
 import { Link } from 'react-router-dom';
-import newLogo from "../../images/newLogo.png";
+import Mirror from "../../images/mirror.png";
 
 import {useState, useEffect} from "react";
 import { useNavigate, useLocation } from "react-router-dom";
@@ -91,9 +91,9 @@ function ResponsiveAppBar() {
               textDecoration: 'none',
             }}
           >
-            Trusty
+            Mirror
           </Typography>
-          <img className={classes.image} src={newLogo} alt="think" height='60' style={{marginLeft: "0", cursor: 'pointer'}} onClick={toHomePage} ></img>
+          <img className={classes.image} src={Mirror} alt="think" height='60' style={{marginLeft: "0", cursor: 'pointer'}} onClick={toHomePage} ></img>
 
 
           <Typography
