@@ -5,16 +5,12 @@
 
 ##  :camera: Gallery
 ## Login:
-
-
+![login_page](https://user-images.githubusercontent.com/85496711/218325813-da1e2dd1-6622-435e-97fb-35112dfd6bcc.PNG)
 ## Home:
-
-
-
-
+![home1](https://user-images.githubusercontent.com/85496711/218325826-4051f75c-b3c3-470a-95c2-77cb7ee773c6.PNG)
+![home2](https://user-images.githubusercontent.com/85496711/218325838-5d3a3e35-e7d1-40ba-9273-5962a5b960cf.PNG)
 ## Post:
-
-
+![single_post](https://user-images.githubusercontent.com/85496711/218325851-014ac6a1-4acf-4b57-b611-d244aa555780.PNG)
 *****************************************************************************************************************************
 ##  :beginner: About
 This app developed using the **MERN** technologies.
