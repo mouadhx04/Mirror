@@ -1,4 +1,4 @@
-Ni# Mirror
+# Mirror
 ![mirror](https://user-images.githubusercontent.com/85496711/218227774-20bf8545-0258-4e8a-bd68-3b240771316c.png)
 - Social media application where you can share posts about you and interact with others.
 - Mirror is safe & easy to use:smile::smiley:.
